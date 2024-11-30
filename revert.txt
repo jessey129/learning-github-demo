@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hai this is jessey
+=======
+hello! there hey
+jessey
+>>>>>>> d21c7b6cd427d41845391e9833b0c4e8208cda07
